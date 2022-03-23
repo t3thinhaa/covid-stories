@@ -12,8 +12,8 @@ html {
 }
 
 .main {
-  background-image: url(/img/background\ làm\ mờ.png);
-}
+  background-image: url(/img/background-img.png);
+} 
 :root {
   --primary-color: #3fd0d4;
 }
